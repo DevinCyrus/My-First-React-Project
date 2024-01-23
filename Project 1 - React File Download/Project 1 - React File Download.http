@@ -1,0 +1,6 @@
+@Project_1___React_File_Download_HostAddress = http://localhost:5185
+
+GET {{Project_1___React_File_Download_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

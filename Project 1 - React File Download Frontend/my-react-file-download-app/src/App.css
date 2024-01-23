@@ -1,0 +1,23 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+/*Basic styling to space buttons*/
+
+.ant-btn-primary {
+  margin: 25px;
+  background-color: rgb(26, 172, 10); /* Replace with your desired color */
+  border-color: rgb(0, 0, 0); /* Replace with your desired color */
+  color: rgb(140, 36, 0); /* Text color, adjust as needed */
+  font-weight: bold;
+}
+
+.ant-btn-primary:hover {
+  background-color: rgb(140, 36, 0) !important; 
+  border-color: rgb(0, 0, 0);
+  color: rgb(26, 172, 10) !important;
+  font-weight: bold;
+}
